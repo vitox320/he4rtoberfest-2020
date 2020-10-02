@@ -40,8 +40,6 @@ A ideia se baseia em pegar exercicios de faculdade, desde o mais simples até o 
 Na lista abaixo estarão todos os exercicios que iremos aceitar nos nossos pull request. 
 
 - [0 - Hello World (não irá contar)](link-primeira-parte)
-- [1 - Soma de dois números](link-primeira-parte)
-- [2 - Área de um circulo](link-segunda-parte)
 
 Caso você queira dar sugestões de desafios, contate algum moderador no [Discord da He4rt](https://discord.gg/he4rt).
   
@@ -87,9 +85,3 @@ Qualquer dúvida, poderá ir o nosso [banco de dúvidas](https://github.com/he4r
 - [**Github para Leigos**](https://dev.to/levxyca/pt-br-github-para-leigos-4i7j)
 
 ---
-
-<p align="center">
-  <a href="https://github.com/he4rt/4noobs" target="_blank">
-    <img src="../.github/footer_4noobs.svg" width="380">
-  </a>
-</p>
